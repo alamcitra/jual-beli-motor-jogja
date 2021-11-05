@@ -10,7 +10,11 @@
 		{{ if isset .Params "merek" }}{{ .Params.merek }}{{ end }}
 		{{ if isset .Params "tahun" }} | {{ .Params.tahun }}{{ end }}
 		{{ if isset .Params "km" }} | <script> km = {{ int .Params.km }}; document.write(km.toLocaleString("id-ID")); </script> km{{ end }}
-		{{ if isset .Params "harga" }} <br> Rp. <script> harga = {{ int .Params.harga }}; document.write(harga.toLocaleString("id-ID")); </script>{{ end }}
+		{{ if .Params.sold }}
+			Rp. (SOLD)
+		{{ else }}
+			{{ if isset .Params "harga" }} <br> Rp. <script> harga = {{ int .Params.harga }}; document.write(harga.toLocaleString("id-ID")); </script>{{ end }}
+		{{ end }}
 	</p>
 	<p class="mb3">{{ .Summary }}</p>
 
