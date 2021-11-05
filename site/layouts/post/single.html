@@ -21,7 +21,7 @@
         <div class="fl w-100 w-70-ns f3 tr-ns">
           <span class="primary b">Harga</span><br>
           {{ if .Params.sold }}
-            <span class="strike">Rp. <script> harga = {{ int .Params.harga }}; document.write(harga.toLocaleString("id-ID")); </script></span><span class="b"> SOLD</span>
+           <span class="b"> SOLD</span>
           {{ else }}
             Rp. <script> harga = {{ int .Params.harga }}; document.write(harga.toLocaleString("id-ID")); </script>
           {{ end }}
