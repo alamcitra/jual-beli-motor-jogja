@@ -3,7 +3,7 @@ title: Contoh Post Jual Motor Bekas Delapan
 date: 2021-11-03T15:08:10.000Z
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est sem,
   pharetra ac malesuada eu, viverra a nulla.
-image: /img/image-placeholder.png
+image: img/image-placeholder-red.png
 merek: Kawasaki
 tahun: "2018"
 km: "10000"
