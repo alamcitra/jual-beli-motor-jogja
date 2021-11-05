@@ -7,7 +7,7 @@ merek: Honda
 tahun: "2013"
 km: "25000"
 harga: "7000000"
-sold: false
+sold: true
 ---
 Jual sepeda motor honda CS1 2013 merah plat AB sleman
 
