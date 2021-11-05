@@ -9,7 +9,7 @@
 	<p class="f6 grey-3 lh-title mb3">
 		{{ if isset .Params "merek" }}{{ .Params.merek }}{{ end }}
 		{{ if isset .Params "tahun" }} | {{ .Params.tahun }}{{ end }}
-		{{ if isset .Params "km" }} | <script> km = {{ int .Params.km }}; document.write(km.toLocaleString("id-ID")); </script> km{{ end }}
+		{{ if isset .Params "km" }} | <script> km = {{ int .Params.km }}; document.write(km.toLocaleString("id-ID")); </script> km<br>{{ end }}
 		{{ if .Params.sold }}
 			Rp. (SOLD)
 		{{ else }}
