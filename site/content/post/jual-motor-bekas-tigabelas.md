@@ -1,13 +1,14 @@
 ---
 title: Contoh Post Jual Motor Bekas Tiga Belas
 date: 2021-11-03T15:12:10.000Z
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est sem, pharetra ac malesuada eu, viverra a nulla.
-image: /img/image-placeholder.png
-merek: "Kawasaki"
+summary: Edit Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est
+  sem, pharetra ac malesuada eu, viverra a nulla.
+image: img/image-placeholder-green.png
+merek: Kawasaki
 tahun: "2010"
 km: "55000"
 harga: "8000000"
-sold: false
+sold: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est sem, pharetra ac malesuada eu, viverra a nulla. Sed vitae ante id urna facilisis ultrices quis eget sapien. Pellentesque sit amet imperdiet ex. Quisque commodo suscipit enim nec pharetra. Morbi laoreet fringilla gravida. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel augue ut augue maximus facilisis. Aenean iaculis massa non velit pharetra, nec lobortis augue vulputate. Ut quis pellentesque turpis, vitae elementum est. Proin vel nisi ac felis vestibulum condimentum. In tempus semper tortor eu volutpat. Nullam eget justo eu libero laoreet ultrices.
