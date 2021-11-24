@@ -1,6 +1,6 @@
 ---
 title: Nouvo Z 2006
-date: 2021-10-02T09:42:28.914Z
+date: 2021-06-05T09:42:28.914Z
 summary: nouvo Z AIS 2006 plat AB
 image: img/img_20150511_123454.jpg
 merek: yamaha
