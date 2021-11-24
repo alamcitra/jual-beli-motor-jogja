@@ -1,6 +1,6 @@
 ---
 title: RX King 2004
-date: 2021-02-05T11:24:09.308Z
+date: 2021-10-16T11:24:09.308Z
 summary: RX King 2004 plat AB
 image: img/1.jpg
 merek: Yamaha
