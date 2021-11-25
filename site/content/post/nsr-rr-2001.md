@@ -7,6 +7,6 @@ merek: Honda
 tahun: "2001"
 km: "65000"
 harga: "1"
-sold: false
+sold: true
 ---
 NSR RR 2001 plat AB surat lengkap pajak hidup mesin sip
